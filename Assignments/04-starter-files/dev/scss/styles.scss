@@ -5,10 +5,12 @@
 @import 'helpers/_variables';
 
 // Base Styles
-@import 'base/_normalize';
-@import 'base/_base';
-@import 'base/_typography';
 
-@import 'components/_header';
+
+@import 'base/normalize';
+@import 'base/typography';
+@import 'base/base';
+
+@import 'components/header';
 @import 'components/main-content';
 @import 'components/footer';
