@@ -21,4 +21,15 @@
     padding-top: 50px;
     padding-bottom: 50px;
     grid-column: span 1;
+
+    @include sm {
+        background-color: $light-purple;
+    }
+    @include md {
+        background-color: $purple;
+        text-align: left;
+    }
+    @include lg {
+        background-color: $red;
+    }
 }

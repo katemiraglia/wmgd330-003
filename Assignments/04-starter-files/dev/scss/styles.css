@@ -410,6 +410,22 @@ h1 {
   padding-bottom: 50px;
   grid-column: span 1;
 }
+@media (min-width: 576px) {
+  .main-content-ads {
+    background-color: #b68ae0;
+  }
+}
+@media (min-width: 768px) {
+  .main-content-ads {
+    background-color: #803841;
+    text-align: left;
+  }
+}
+@media (min-width: 992px) {
+  .main-content-ads {
+    background-color: #F71735;
+  }
+}
 
 .footer {
   background-color: #803841;
@@ -418,4 +434,20 @@ h1 {
   padding-top: 50px;
   padding-bottom: 50px;
   grid-column: span 4;
+}
+@media (min-width: 576px) {
+  .footer {
+    background-color: #b68ae0;
+  }
+}
+@media (min-width: 768px) {
+  .footer {
+    background-color: #803841;
+    text-align: left;
+  }
+}
+@media (min-width: 992px) {
+  .footer {
+    background-color: #F71735;
+  }
 }
