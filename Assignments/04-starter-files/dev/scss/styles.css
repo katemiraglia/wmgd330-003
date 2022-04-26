@@ -362,3 +362,39 @@ h1, h2, h3, h4 {
 h1 {
   font-weight: 300;
 }
+
+.header {
+  background-color: #006494;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 50px;
+  grid-column: span 4;
+}
+
+.main-content-sidebar {
+  background-color: #1B263B;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.main-content-body {
+  background-color: #7799A5;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.main-content-ads {
+  background-color: #F71735;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.footer {
+  background-color: #803841;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 50px;
+}
