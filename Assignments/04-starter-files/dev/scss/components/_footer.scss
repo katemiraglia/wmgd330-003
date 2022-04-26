@@ -6,13 +6,13 @@
     padding-bottom: 50px;
     grid-column: span 4;
     @include sm {
-        background-color: $light-purple;
+        background-color: $green;
     }
     @include md {
-        background-color: $purple;
+        background-color: $yellow;
         text-align: left;
     }
     @include lg {
-        background-color: $red;
+        background-color: $orange;
     }
     }

@@ -9,10 +9,10 @@
         background-color: $light-purple;
     }
     @include md {
-        background-color: $purple;
+        background-color: $green;
         text-align: left;
     }
     @include lg {
-        background-color: $red;
+        background-color: $orange;
     }
 }

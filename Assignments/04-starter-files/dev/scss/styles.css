@@ -374,13 +374,13 @@ h1 {
 }
 @media (min-width: 768px) {
   .header {
-    background-color: #803841;
+    background-color: #5cb429;
     text-align: left;
   }
 }
 @media (min-width: 992px) {
   .header {
-    background-color: #F71735;
+    background-color: #e18216;
   }
 }
 
@@ -412,7 +412,7 @@ h1 {
 }
 @media (min-width: 576px) {
   .main-content-ads {
-    background-color: #b68ae0;
+    background-color: #5cb429;
   }
 }
 @media (min-width: 768px) {
@@ -423,7 +423,7 @@ h1 {
 }
 @media (min-width: 992px) {
   .main-content-ads {
-    background-color: #F71735;
+    background-color: #e18216;
   }
 }
 
@@ -437,17 +437,17 @@ h1 {
 }
 @media (min-width: 576px) {
   .footer {
-    background-color: #b68ae0;
+    background-color: #5cb429;
   }
 }
 @media (min-width: 768px) {
   .footer {
-    background-color: #803841;
+    background-color: #d4e08a;
     text-align: left;
   }
 }
 @media (min-width: 992px) {
   .footer {
-    background-color: #F71735;
+    background-color: #e18216;
   }
 }

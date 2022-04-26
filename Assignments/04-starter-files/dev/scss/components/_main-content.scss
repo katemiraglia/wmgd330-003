@@ -23,13 +23,13 @@
     grid-column: span 1;
 
     @include sm {
-        background-color: $light-purple;
+        background-color: $green;
     }
     @include md {
         background-color: $purple;
         text-align: left;
     }
     @include lg {
-        background-color: $red;
+        background-color: $orange;
     }
 }
