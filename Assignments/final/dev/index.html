@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+      #page{
+        margin:176px 0;
+      }
+
+    </style>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>HTML Markup</title>
@@ -21,39 +27,109 @@
   </head>
   <body bgcolor="#000000"></body>
     <div class="header"> 
-        <img src="./assets/images/nasalogo.png" alt=""/>
-        <div>
+      
+        <img src="./assets/images/header.png" alt=""/>
+        <div class="menulinks">
     
-        <a class="footer_link" href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        <a class="header_link" href="#">HOME</a>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+    
+        <a class="header_link" href="#">MISSIONS</a>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <a class="header_link" href="#">GALLERY</a>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <a class="header_link" href="#">EDUCATION</a>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <a class="header_link" href="#">ABOUT US</a>
+        &nbsp;
+    
+      
+        <style>
+            .header_link{
+                color:black;
+                font-size: 24px;
+                text-decoration: none;
+                width:25%;
+            }
+        </style>
+        <style>
+            .menulinks{
+                position: absolute;
+                left:50%;
+                transform:translate(-50%,-90%);
+                margin:0;
+                padding:20px 20px;
+                display: flex;
+                border-radius: 10px: 0;
+               list-style: none;
+               text-align: center;
+               
+            }
+        </style>
         </div>
     </div>
-    
-        
+    <div class="hero"> 
+          
+            <img class= "topimage" src="./assets/images/topimage.jpg" alt=""/>
+            <style>
+                .topimage{
+                    position: absolute;
+                    width: 1042px;
+                    height: 128px;
+                    left: 22px;
+                    top: 212px;
+                }
+            </style>
+           <style>
+               .planets{
+            position: absolute;
+            width: 604px;
+            height: 537px;
+            left: 815px;
+            top: 316px;
+             }
+            </style>
+            
+                <img class= "planets" src="./assets/images/planets.png" alt=""/>
+           
+             </p>
+        </div>
     <footer>
+                <img src="./assets/images/lines.png" alt=""/>
+                <style>
+                    footer{
+                      position: fixed;
+                      width: 100%;
+                      height: 176px;
+                      left:0;
+                      bottom: 0;
+                      background-color: #003355;
+            
+                    }
+                  </style> 
                 <div>
                     <a href="#">Contact</a>
+                    <p style= "color: #ffffff">hi how are u</p>
                 </div>
             </footer>
     <script src="js/scripts-min.js"></script>
-    <style>
-      footer{
-        position: fixed
-        width: 100%
-        bgcolor: #003355
-      }
-    </style>    
-    <footer>
-      <p>poop</p>
-                <div>
-                    <a href="#">Contact</a>
-                </div>
-            </footer>
-    <script src="js/scripts-min.js"></script>
-          </footer>
    
-   
+
+   #page{
+     margin-bottom:176px;
+   }
 
 
 
