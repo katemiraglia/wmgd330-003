@@ -1,54 +1,64 @@
 <div class="header"> 
   
-    <img src="./assets/images/header.png" alt=""/>
-    <div class="menulinks">
+    <img src="./assets/images/header.png" alt="" style="max-width:100%;height:auto;/>
+    
+    
+</div>
+    <div class="topnav"> 
 
-    <a class="header_link" href="#">HOME</a>
-    &nbsp;
-    &nbsp;
-    &nbsp;
+    <a class="topnav_link" href="#">HOME</a>
+  
+    <a class="topnav_link" href="#">MISSIONS</a>
 
-    <a class="header_link" href="#">MISSIONS</a>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    <a class="header_link" href="#">GALLERY</a>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    <a class="header_link" href="#">EDUCATION</a>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    <a class="header_link" href="#">ABOUT US</a>
-    &nbsp;
-
+    <a class="topnav_link" href="#">GALLERY</a>
+  
+    <a class="topnav_link" href="#">EDUCATION</a>
+   
+    <a class="topnav_link" href="#">ABOUT US</a>
+  
   
     <style>
-        .header_link{
-            color:black;
-            font-size: 24px;
-            text-decoration: none;
-            width:25%;
-        }
+          /* Add a black background color to the top navigation */
+    .topnav {
+     
+      overflow: hidden;
+      margin-left: 400px;
+      height: 40px;
+    }
     </style>
+   
+    
     <style>
-        .menulinks{
-            position: absolute;
-            left:50%;
-            transform:translate(-50%,-90%);
-            margin:0;
-            padding:20px 20px;
-            display: flex;
-            border-radius: 10px: 0;
-           list-style: none;
-           text-align: center;
-           
-        }
-    </style>
+        /* Style the links inside the navigation bar */
+    .topnav a{
+      float: left;
+      color: #0b753e;
+      text-align: center;
+      margin-left: 400px;
+      padding: 14px 14px;
+      text-decoration: none;
+      font-size: 1.5vw;
+    }
+</style>
+    
+
+    <style>
+            /* Change the color of links on hover */
+    .topnav a:hover {
+      background-color: #d9d9d9;
+      color: black;
+    }
+</style>
+    
+   
+    <style>
+         /* Add a color to the active/current link */
+    .topnav a.active {
+      background-color: #04AA6D;
+      color: white;
+    }
+</style>
+  
+   
     </div>
 </div>
