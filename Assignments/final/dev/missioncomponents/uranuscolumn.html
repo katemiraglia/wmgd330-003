@@ -1,15 +1,47 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 </head>
 <body>
-    <div>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
         <img src="./assets/images/uranus.png" style="margin-top: 97px; width: 100%; max-width: 700px;"
         <br> 
         <p style="font-size:18px;color: #ffffff; width: 100%; max-width: 700px; align-items: center; background-color: #0F1C24;"> <br>  &nbsp; &nbsp; On this Day, in 1977, The rings of Uranus discovered.<br><br> </p>
     </div>
-    <div>
+   
+  <div class="column" style="background-color:#bbb;">
     <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%237986CB&ctz=America%2FNew_York&showPrint=0&showTabs=0&showCalendars=0&showTz=0&showNav=1&showTitle=0&src=anBhM3FnZjM3ZmNuajY2dnNidmNsM2VxYThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%239E69AF" style="border-width:0; margin-left: 881px; margin-top: 1px;" width="500" height="500" frameborder="0" scrolling="no"></iframe>
+
+  </div>
 </div>
+
 </body>
+</html>
+
+
+</html>
