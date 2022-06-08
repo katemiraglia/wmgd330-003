@@ -155,6 +155,35 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/images\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/favicon.ico",
+      "oF" : 0
+    },
+    "\/deploy\/assets\/images\/favicon.png" : {
+      "ft" : 32768,
+      "iS" : 842,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/favicon.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/images\/favicon.png.zip" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/favicon.png.zip",
+      "oF" : 0
+    },
     "\/deploy\/assets\/images\/footerlogo.png" : {
       "ft" : 32768,
       "iS" : 4968,
@@ -381,6 +410,19 @@
       "iS" : 1124,
       "oA" : 0,
       "oAP" : "\/deploy\/assets\/images\/moreimages.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/images\/morevideos.png" : {
+      "ft" : 32768,
+      "iS" : 2876,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/morevideos.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
