@@ -775,52 +775,12 @@
       "oAP" : "\/dev\/components\/flyheadline.html",
       "oF" : 0
     },
-    "\/dev\/components\/flynew.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/flynew.html",
-      "oF" : 0
-    },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/footer.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/footernew.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/footernew.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/gallery.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/gallery.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/gallery.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/gallery.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/head.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/head.html",
       "oF" : 0
     },
     "\/dev\/components\/headcopy.kit" : {
@@ -831,28 +791,12 @@
       "oAP" : "\/dev\/components\/headcopy.html",
       "oF" : 0
     },
-    "\/dev\/components\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/header.html",
-      "oF" : 0
-    },
     "\/dev\/components\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/hero.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/hero2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/hero2.html",
       "oF" : 0
     },
     "\/dev\/components\/nameinput.kit" : {

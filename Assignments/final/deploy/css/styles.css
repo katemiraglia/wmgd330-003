@@ -461,11 +461,15 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px;
   height: 300px; }
 
+.remember_images {
+  padding-right: 66px;
+  height: 500px; }
+
 .column {
   float: left;
   margin-top: 50px;
   padding: 10px;
-  height: 300px; }
+  margin-bottom: 50px; }
 
 .left {
   width: 25%; }
@@ -482,8 +486,7 @@ h1, h2, h3, h4, h5, h6 {
 .column_recent {
   float: left;
   width: 50%;
-  height: 350px;
-  margin-top: 300px; }
+  height: 350px; }
 
 .rowrecent:after {
   content: "";
