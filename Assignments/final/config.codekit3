@@ -799,11 +799,19 @@
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 0
     },
-    "\/dev\/components\/nameinput.kit" : {
+    "\/dev\/components\/input.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
+      "oAP" : "\/dev\/components\/input.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/nameinput.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/nameinput.html",
       "oF" : 0
     },
@@ -1080,6 +1088,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_hero.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_input.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_input.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

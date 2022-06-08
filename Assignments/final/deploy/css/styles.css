@@ -561,6 +561,16 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px;
   height: 300px; }
 
+.column_input {
+  float: left;
+  width: 50%;
+  height: 350px; }
+
+.boardingpass:after {
+  content: "";
+  display: table;
+  clear: both; }
+
 .video_column {
   margin-top: 100px;
   float: left;
