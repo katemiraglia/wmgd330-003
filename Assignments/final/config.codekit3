@@ -41,8 +41,8 @@
       "oA" : 0,
       "oAP" : "\/deploy\/assets\/images\/circle.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -376,6 +376,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/images\/moreimages.png" : {
+      "ft" : 32768,
+      "iS" : 1124,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/moreimages.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/assets\/images\/NASA Begins Assembly of Europa Clipper Spacecraft.png" : {
       "ft" : 32768,
       "iS" : 24882,
@@ -480,6 +493,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/images\/rocket.png" : {
+      "ft" : 32768,
+      "iS" : 337145,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/rocket.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/assets\/images\/solarsystem.png" : {
       "ft" : 32768,
       "iS" : 35055,
@@ -498,6 +524,58 @@
       "iS" : 10394,
       "oA" : 0,
       "oAP" : "\/deploy\/assets\/images\/spacebackground1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/images\/threeimages.png" : {
+      "ft" : 32768,
+      "iS" : 444601,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/threeimages.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/images\/threeimages1.png" : {
+      "ft" : 32768,
+      "iS" : 159049,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/threeimages1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/images\/threeimages2.png" : {
+      "ft" : 32768,
+      "iS" : 167932,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/threeimages2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/images\/threeimages3.png" : {
+      "ft" : 32768,
+      "iS" : 140838,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/images\/threeimages3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -613,12 +691,12 @@
       "oAP" : "\/designs\/FinalProjectKM.pdf",
       "oF" : 0
     },
-    "\/dev\/components\/columnnewcopy.kit" : {
+    "\/dev\/components\/climatenews.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/columnnewcopy.html",
+      "oAP" : "\/dev\/components\/climatenews.html",
       "oF" : 0
     },
     "\/dev\/components\/flyheadline.kit" : {
@@ -653,11 +731,19 @@
       "oAP" : "\/dev\/components\/footernew.html",
       "oF" : 0
     },
+    "\/dev\/components\/gallery.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/gallery.html",
+      "oF" : 0
+    },
     "\/dev\/components\/gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/gallery.html",
       "oF" : 0
     },
@@ -717,6 +803,22 @@
       "oAP" : "\/dev\/components\/recentnews.html",
       "oF" : 0
     },
+    "\/dev\/components\/rememberingcolumn.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/rememberingcolumn.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/threeimages.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/threeimages.html",
+      "oF" : 0
+    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -733,14 +835,6 @@
       "oAP" : "\/deploy\/mission.html",
       "oF" : 2
     },
-    "\/dev\/missioncomponents\/calendar.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/missioncomponents\/calendar.html",
-      "oF" : 0
-    },
     "\/dev\/missioncomponents\/circle.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -749,12 +843,12 @@
       "oAP" : "\/dev\/missioncomponents\/circle.html",
       "oF" : 0
     },
-    "\/dev\/missioncomponents\/gallery.kit" : {
+    "\/dev\/missioncomponents\/imagegallery.html" : {
       "cB" : 0,
-      "ft" : 2048,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/missioncomponents\/gallery.html",
+      "oAP" : "\/dev\/missioncomponents\/imagegallery.html",
       "oF" : 0
     },
     "\/dev\/missioncomponents\/imagegallery.kit" : {
@@ -765,6 +859,14 @@
       "oAP" : "\/dev\/missioncomponents\/imagegallery.html",
       "oF" : 0
     },
+    "\/dev\/missioncomponents\/images.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/missioncomponents\/images.html",
+      "oF" : 0
+    },
     "\/dev\/missioncomponents\/images.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -773,12 +875,12 @@
       "oAP" : "\/dev\/missioncomponents\/images.html",
       "oF" : 0
     },
-    "\/dev\/missioncomponents\/threeimages.kit" : {
+    "\/dev\/missioncomponents\/threeimage.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/missioncomponents\/threeimages.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/missioncomponents\/threeimage.html",
       "oF" : 0
     },
     "\/dev\/missioncomponents\/title.kit" : {
@@ -873,7 +975,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_columns.scss" : {
+    "\/dev\/scss\/components\/_climatenews.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -882,7 +984,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_columns.css",
+      "oAP" : "\/dev\/scss\/components\/_climatenews.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -918,7 +1020,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_header.scss" : {
+    "\/dev\/scss\/components\/_gallery.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -927,7 +1029,22 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_header.css",
+      "oAP" : "\/dev\/scss\/components\/_gallery.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_headcopy.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_headcopy.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -948,7 +1065,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_main-content.scss" : {
+    "\/dev\/scss\/components\/_mission.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -957,13 +1074,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_main-content.css",
+      "oAP" : "\/dev\/scss\/components\/_mission.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_navigation.scss" : {
+    "\/dev\/scss\/components\/_recentnews.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -972,7 +1089,67 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/dev\/scss\/components\/_recentnews.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_rememberingcolumn.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_rememberingcolumn.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_threeimages.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_threeimages.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_titletoday.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_titletoday.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_universe.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_universe.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -1065,6 +1242,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/older stuff that may have worked\/_climatenews.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/older stuff that may have worked\/_climatenews.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/older stuff that may have worked\/climate.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1095,6 +1287,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/older stuff that may have worked\/climate2.html",
+      "oF" : 0
+    },
+    "\/older stuff that may have worked\/climatenews.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/older stuff that may have worked\/climatenews.html",
       "oF" : 0
     },
     "\/older stuff that may have worked\/climatetext.html" : {

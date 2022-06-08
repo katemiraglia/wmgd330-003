@@ -1,0 +1,13 @@
+.column_recent {
+    float: left;
+    width: 50%;
+    height: 350px;
+    margin-top: 300px;
+}
+
+
+.rowrecent:after {
+    content: "";
+    display: table;
+    clear: both;
+}
