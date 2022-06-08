@@ -807,14 +807,6 @@
       "oAP" : "\/dev\/components\/input.html",
       "oF" : 0
     },
-    "\/dev\/components\/nameinput.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/components\/nameinput.html",
-      "oF" : 0
-    },
     "\/dev\/components\/recentnews.kit" : {
       "cB" : 0,
       "ft" : 2048,
