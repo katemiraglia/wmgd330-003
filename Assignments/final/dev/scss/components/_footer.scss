@@ -6,7 +6,7 @@
 
     .footer-column {
         float: left;
-        background-color: #003355;
+        background-color: $darkblue;
         width: 33.33%;
         padding: 0px;
         height: 136px;
@@ -26,14 +26,14 @@
     .rectangle {
         height: 12px;
         width: 1440px;
-        background-color: #FF5200;
+        background-color: $red;
     }
 
     .rectangle2 {
         margin-top: 3px;
         height: 12px;
         width: 1440px;
-        background-color: #04536C;
+        background-color: $lineblue;
     }
 
     .footer__contact-row {
