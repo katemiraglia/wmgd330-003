@@ -871,14 +871,6 @@
       "oAP" : "\/dev\/missioncomponents\/eventstitle.html",
       "oF" : 0
     },
-    "\/dev\/missioncomponents\/imagegallery.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/missioncomponents\/imagegallery.html",
-      "oF" : 0
-    },
     "\/dev\/missioncomponents\/threeimage.kit" : {
       "cB" : 0,
       "ft" : 2048,
