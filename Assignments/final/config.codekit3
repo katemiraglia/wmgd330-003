@@ -863,12 +863,12 @@
       "oAP" : "\/dev\/missioncomponents\/circle.html",
       "oF" : 0
     },
-    "\/dev\/missioncomponents\/imagegallery.html" : {
+    "\/dev\/missioncomponents\/eventstitle.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/missioncomponents\/imagegallery.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/missioncomponents\/eventstitle.html",
       "oF" : 0
     },
     "\/dev\/missioncomponents\/imagegallery.kit" : {
@@ -877,22 +877,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/missioncomponents\/imagegallery.html",
-      "oF" : 0
-    },
-    "\/dev\/missioncomponents\/images.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/missioncomponents\/images.html",
-      "oF" : 0
-    },
-    "\/dev\/missioncomponents\/images.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/missioncomponents\/images.html",
       "oF" : 0
     },
     "\/dev\/missioncomponents\/threeimage.kit" : {
@@ -1005,6 +989,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_climatenews.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_eventtitle.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_eventtitle.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
